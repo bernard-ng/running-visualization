@@ -1,0 +1,60 @@
+{
+  "start_time": 1541321559000,
+  "end_time": 1541321792000,
+  "created_at": 1541321795000,
+  "updated_at": 1641292607000,
+  "start_time_timezone_offset": 0,
+  "end_time_timezone_offset": 0,
+  "distance": 0,
+  "duration": 233000,
+  "average_speed": 0.0,
+  "calories": 10,
+  "pause_duration": 0,
+  "duration_per_km": 0,
+  "manual": false,
+  "completed": true,
+  "fitness": {
+    "additional_repetitions_in_last_set": 22,
+    "max_repetitions": 24,
+    "sets": [
+      {
+        "duration": 19000,
+        "repetitions": 2,
+        "repetitions_goal": 2
+      },
+      {
+        "duration": 9000,
+        "repetitions": 3,
+        "repetitions_goal": 3
+      },
+      {
+        "duration": 14000,
+        "repetitions": 3,
+        "repetitions_goal": 3
+      },
+      {
+        "duration": 9000,
+        "repetitions": 2,
+        "repetitions_goal": 2
+      },
+      {
+        "duration": 11000,
+        "repetitions": 3,
+        "repetitions_goal": 3
+      },
+      {
+        "duration": 45000,
+        "repetitions": 24,
+        "repetitions_goal": 2
+      }
+    ]
+  },
+  "training_plan": {
+    "Key": "situp_100",
+    "Level": 1,
+    "LevelDay": 1,
+    "LevelOverallDays": 9
+  },
+  "id": "b844113a-1e47-41b0-acab-ef79e6e2e82e",
+  "sport_type_id": "64"
+}

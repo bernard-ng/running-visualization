@@ -1,0 +1,50 @@
+{
+  "start_time": 1541321396000,
+  "end_time": 1541321488000,
+  "created_at": 1541321490000,
+  "updated_at": 1641292607000,
+  "start_time_timezone_offset": 0,
+  "end_time_timezone_offset": 0,
+  "distance": 0,
+  "duration": 92000,
+  "average_speed": 0.0,
+  "calories": 5,
+  "pause_duration": 0,
+  "duration_per_km": 0,
+  "manual": false,
+  "completed": true,
+  "fitness": {
+    "additional_repetitions_in_last_set": 19,
+    "max_repetitions": 21,
+    "sets": [
+      {
+        "duration": 10000,
+        "repetitions": 4,
+        "repetitions_goal": 4
+      },
+      {
+        "duration": 7000,
+        "repetitions": 3,
+        "repetitions_goal": 3
+      },
+      {
+        "duration": 8000,
+        "repetitions": 3,
+        "repetitions_goal": 3
+      },
+      {
+        "duration": 42000,
+        "repetitions": 21,
+        "repetitions_goal": 2
+      }
+    ]
+  },
+  "training_plan": {
+    "Key": "squats_150",
+    "Level": 1,
+    "LevelDay": 1,
+    "LevelOverallDays": 9
+  },
+  "id": "2f2e2000-dd8a-403e-ba5c-8f5b70572350",
+  "sport_type_id": "66"
+}
